@@ -1,33 +1,113 @@
-<h1 align="center">Hi 👋, I'm Aditya Katariya</h1>
-<h3 align="center">A passionate Frontend Developer from India.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakatariya-a&label=Profile%20views&color=0e75b6&style=flat" alt="adityakatariya-a" /> </p>
+# Hey, I'm Aditya Katariya 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityakatariya-a" alt="adityakatariya-a" /></a> </p>
+### Frontend Developer | B.Tech CSE (AI) Student | UI/UX Enthusiast
 
-- 🔭 I’m currently working on my assignments [CodingGita Assignments](https://github.com/adityakatariya-a/CodingGita-Assignments)
+I enjoy turning ideas into clean, user-friendly web experiences and continuously learning how to build better products.
 
-- 🌱 I’m currently learning **JavaScript, Python**
+[![Profile Views](https://komarev.com/ghpvc/?username=adityakatariya-a&style=for-the-badge&color=0e75b6)](https://github.com/adityakatariya-a)
+[![GitHub followers](https://img.shields.io/github/followers/adityakatariya-a?style=for-the-badge&logo=github&color=181717)](https://github.com/adityakatariya-a?tab=followers)
 
-- 👨‍💻 All of my projects are available at [https://github.com/adityakatariya-a](https://github.com/adityakatariya-a)
+[LinkedIn](https://linkedin.com/in/aditya-katariya-dev) · [Instagram](https://instagram.com/adityakatariya_30) · [Email](mailto:aditya.katariya.cg@gmail.com)
 
-- 💬 Ask me about **Frontend Development, UI/UX Design**
+</div>
 
-- 📫 How to reach me **aditya.katariya.cg@gmail.com**
+---
 
-- ⚡ Fun fact **I have interest in finance and stock market**
+## 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aditya-katariya-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-katariya-dev" height="30" width="40" /></a>
-<a href="https://instagram.com/adityakatariya_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityakatariya_30" height="30" width="40" /></a>
-</p>
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering (AI)** at **Swarrnim Startup & Innovation University**.
+- 🌱 Currently learning and improving my skills in **JavaScript and Python**.
+- 💻 Interested in **Frontend Development, UI/UX Design, and building useful products**.
+- 🧩 Working on my [CodingGita assignments](https://github.com/adityakatariya-a/CodingGita-Assignments).
+- 🏁 Have participated in **2 hackathons** and enjoy collaborating on ideas.
+- 📈 Outside coding, I'm interested in **finance and the stock market**.
+- 💬 Feel free to connect with me about frontend development, design, or student projects.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakatariya-a&show_icons=true&locale=en&layout=compact" alt="adityakatariya-a" /></p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityakatariya-a&show_icons=true&locale=en" alt="adityakatariya-a" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakatariya-a&" alt="adityakatariya-a" /></p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,figma,git,github,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- Public repository count; this badge reads the count from GitHub's public user API. -->
+![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fadityakatariya-a&query=%24.public_repos&label=Public%20Repositories&logo=github&style=for-the-badge&color=181717)
+
+<!-- GitHub Readme Stats: stars earned, commits, PRs, issues and contribution stats. -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=adityakatariya-a&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&rank_icon=github" alt="Aditya's GitHub statistics" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakatariya-a&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+
+</div>
+
+### 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=adityakatariya-a&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+### 📈 Contribution Activity & Commit Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityakatariya-a&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/adityakatariya-a/CodingGita-Assignments">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityakatariya-a&repo=CodingGita-Assignments&theme=tokyonight&hide_border=true" alt="CodingGita Assignments repository card" />
+</a>
+
+</div>
+
+> **Want to feature more projects?** Add another repository card below after choosing a project you want visitors or recruiters to see.
+
+<!--
+<a href="https://github.com/adityakatariya-a/YOUR-REPOSITORY">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityakatariya-a&repo=YOUR-REPOSITORY&theme=tokyonight&hide_border=true" alt="Project repository card" />
+</a>
+-->
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=adityakatariya-a&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-katariya-dev)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adityakatariya_30)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.katariya.cg@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityakatariya-a)
+
+**Thanks for visiting my profile! Have a great day.** 😊
+
+</div>

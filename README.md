@@ -76,6 +76,12 @@ I enjoy turning ideas into clean, user-friendly web experiences and continuously
 <a href="https://github.com/adityakatariya-a/CodingGita-Assignments">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityakatariya-a&repo=CodingGita-Assignments&theme=tokyonight&hide_border=true" alt="CodingGita Assignments repository card" />
 </a>
+<a href="https://github.com/adityakatariya-a/Finance-Buddy">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityakatariya-a&repo=Finance-Buddy&theme=tokyonight&hide_border=true" alt="Finance Buddy repository card" />
+</a>
+<a href="https://github.com/CodingGita-Hackathon-Commitee/PixelRush-Team_Indomitable-s_SW">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityakatariya-a&repo=PixelRush-Team_Indomitable-s_SW&theme=tokyonight&hide_border=true" alt="Pixulrush hackathon repository card" />
+</a>
 
 </div>
 
